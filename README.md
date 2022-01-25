@@ -6,4 +6,4 @@
 Link de la guía [rest-service](https://spring.io/guides/gs/rest-service/)
 
 ## Confirmación de la tarea completada
-![ResultadoFinal] (https://github.com/cristhianTorre/IETI-Tarea1/img/confirmacion.png)
+![ResultadoFinal](https://github.com/cristhianTorre/IETI-Tarea1/tree/master/img/confirmacion.png)
